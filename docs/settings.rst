@@ -18,7 +18,7 @@ Add the following variable to your django ``settings.py``:
 
 .. _register-user-admin-setting:
 
-Regiser User Admin
+Register User Admin
 ==================
 
 Replaces the default ``django.contrib.auth.admin.UserAdmin`` with :ref:`RolePermissionsUserAdmin <rolepermissions-useradmin>`
